@@ -8,8 +8,8 @@
 <div>
   <a href="https://github.com/rafaservio">
   <img style="display: inline" align="right" width="30%" src="https://cdn-icons-png.flaticon.com/512/3176/3176388.png">
-  <img style="display: inline" width="65%" src="https://github-readme-stats.vercel.app/api?username=rafaservio&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img style="display: inline" width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaservio&layout=compact&langs_count=16&theme=monokai"/>
+  <img style="display: inline" width="65%" src="https://github-readme-stats.vercel.app/api?username=rafaservio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img style="display: inline" width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaservio&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 ---
