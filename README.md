@@ -1,7 +1,8 @@
 <h1> Olá, seja bem-vindo(a)! </h1>
 <h2> Muito prazer, eu sou o <a href="https://www.linkedin.com/in/rafaservio/" target="_blank">RAFAEL</a>! </h2> 
-<h3>  💻 Front-end developer </h4>
-<h3> 🌎 Rio de Janeiro, Brasil </h4>
+<h3> 📚 Análise e Desenvolvimento de Sistemas | 2/4 </h3>
+<h3> 💻 Desenvolvedor front-end </h3>
+<h3> 🌎 Rio de Janeiro, Brasil </h3>
 
 ---
 
